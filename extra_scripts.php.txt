@@ -1,0 +1,12 @@
+<?php
+$extraScripts = [
+    10001 => [
+        'name' => 'My Custom Script',
+        'softname' => 'cust',
+        'desc' => '',
+        'ins' => 1,
+        'cat' => 'blogs',
+        'type' => 'php',
+        'ver' => '1.0.6'
+    ],
+];
